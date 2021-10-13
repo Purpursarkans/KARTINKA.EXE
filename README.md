@@ -1,0 +1,1 @@
+# KARTINKA.EXE
