@@ -1,6 +1,4 @@
-!.vscode
-!.gitignore
-!anime.ico
-!KARTINKA.cpp
-!KARTINKA.rc
-!tak-blet.jpg
+*.EXE
+*.res
+*.7z
+*.zip
