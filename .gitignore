@@ -1,2 +1,6 @@
-KARTINKA.EXE
-KARTINKA.res
+!.vscode
+!.gitignore
+!anime.ico
+!KARTINKA.cpp
+!KARTINKA.rc
+!tak-blet.jpg
